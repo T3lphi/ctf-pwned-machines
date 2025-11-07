@@ -25,7 +25,7 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 ├─ 📄 README.md  
 ├─ 📄 LICENSE  
 └─ 📂 machines/  
-   ├─ 📂 2025-11-07-htb-machine/  
+   ├─ 📂 BreakRSA/  
    │  ├─ 📄 README.md  
    │  ├─ 📄 enumeration.md  
    │  ├─ 📄 exploitation.md  
@@ -41,7 +41,7 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 
 | Máquina | Plataforma | Dificuldade | Status | Data |
 |----------|-------------|--------------|--------|------|
-| `HTB - MachineName` | Hack The Box | Easy | ✅ Pwned | 2025-11-07 |
+| `HTB - BreakRSA` | Hack The Box | Easy | ✅ Pwned | 2025-11-07 |
 
 > *(A tabela será atualizada conforme novas quests forem concluídas.)*
 
@@ -74,7 +74,6 @@ Cada máquina serve para treinar:
 
 - [Hack The Box Academy](https://academy.hackthebox.com/)
 - [TryHackMe Paths](https://tryhackme.com/)
-- [GTFOBins](https://gtfobins.github.io/)
 - [PicoCTF](https://www.picoctf.org/)
 ---
 

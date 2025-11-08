@@ -25,12 +25,9 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 ├─ 📄 README.md  
 ├─ 📄 LICENSE  
 └─ 📂 machines/  
-   ├─ 📂 BreakRSA/  
-   │  ├─ 📄 README.md  
-   │  ├─ 📄 enumeration.md  
-   │  ├─ 📄 exploitation.md  
-   │  ├─ 📂 screenshots/  
-   │  └─ 📂 scripts/  
+   ├─ 📂 BreakRSA/   
+   └─ └─ 📄 README.md     
+ 
 
 </pre>
 
@@ -41,7 +38,7 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 
 | Máquina | Plataforma | Dificuldade | Status | Data |
 |----------|-------------|--------------|--------|------|
-| `HTB - BreakRSA` | Hack The Box | Easy | ✅ Pwned | 2025-11-07 |
+| `THM - Breaking RSA` | TryHackMe | Medium | ✅ Pwned | 2025-11-07 |
 
 > *(A tabela será atualizada conforme novas quests forem concluídas.)*
 

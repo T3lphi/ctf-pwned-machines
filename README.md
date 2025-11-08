@@ -38,7 +38,7 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 
 | Máquina | Plataforma | Dificuldade | Status | Data |
 |----------|-------------|--------------|--------|------|
-| `THM - Breaking RSA` | TryHackMe | Medium | ✅ Pwned | 2025-11-07 |
+| [THM - Breaking RSA](https://github.com/T3lphi/ctf-pwned-machines/tree/main/Breaking%20RSA) | TryHackMe | Medium | ✅ Pwned | 2025-11-07 |
 
 > *(A tabela será atualizada conforme novas quests forem concluídas.)*
 

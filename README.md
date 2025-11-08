@@ -25,7 +25,7 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 ├─ 📄 README.md  
 ├─ 📄 LICENSE  
 └─ 📂 machines/  
-   ├─ 📂 BreakRSA/   
+   ├─ 📂 Breaking RSA/   
    └─ └─ 📄 README.md     
  
 

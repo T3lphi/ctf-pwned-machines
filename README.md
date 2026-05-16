@@ -26,7 +26,9 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 ├─ 📄 LICENSE  
 └─ 📂 machines/  
    ├─ 📂 Breaking RSA/   
-   └─ └─ 📄 README.md     
+   └─ └─ 📄 README.md    
+   ├─ 📂 RootMe/   
+   └─ └─ 📄 README.md 
  
 
 </pre>
@@ -38,7 +40,8 @@ O foco é no **processo de aprendizado** e na **lógica hacker** por trás das c
 
 | Máquina | Plataforma | Dificuldade | Status | Data |
 |----------|-------------|--------------|--------|------|
-| [THM - Breaking RSA](https://github.com/T3lphi/ctf-pwned-machines/tree/main/Breaking%20RSA) | TryHackMe | Medium | ✅ Pwned | 2025-11-07 |
+| [THM - Breaking RSA](https://github.com/T3lphi/ctf-pwned-machines/tree/main/Breaking%20RSA) | TryHackMe | Medium | ✅ Pwned | 07-11-2025 |
+| [THM - RootMe](https://github.com/T3lphi/ctf-pwned-machines/tree/main/rootme) | TryHackMe | Eazy | ✅ Pwned | 14-05-2026 |
 
 > *(A tabela será atualizada conforme novas quests forem concluídas.)*
 
@@ -82,13 +85,6 @@ Cada máquina serve para treinar:
 >  
 > **Jamais utilize este conhecimento para fins ilegais.**  
 > O verdadeiro hacker busca **compreender**, **corrigir** e **proteger**.
-
----
-
-## 🪶 Licença
-
-Distribuído sob licença **MIT**.  
-Sinta-se livre para **clonar, adaptar e compartilhar** — desde que mantenha a atribuição.
 
 ---
 
